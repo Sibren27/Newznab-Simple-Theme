@@ -3,7 +3,14 @@ Newznab-Simple-Theme
 
 Theme for newznab plus.
 
-Put the simple folder inside the newznab/www/templates folder.
+To install:
+
+git clone https://github.com/kevinlekiller/Newznab-Simple-Theme
+
+cd Newznab-Simple-Theme
+
+sudo mv Newznab-Simple-Theme /path/to/newznab/www/templates
+
 
 Screenshots:
 
