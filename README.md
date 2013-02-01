@@ -9,7 +9,7 @@ git clone https://github.com/kevinlekiller/Newznab-Simple-Theme
 
 cd Newznab-Simple-Theme
 
-sudo mv Newznab-Simple-Theme /path/to/newznab/www/templates
+sudo mv simple /path/to/newznab/www/templates
 
 
 Screenshots:
